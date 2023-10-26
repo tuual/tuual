@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tual Gokmen</h1>
-<h3 align="center">A Android developer from Turkey</h3>
+<h3 align="center">A Software developer from Turkey</h3>
 
 - 📫 Contact Me **tual.gokmen41@gmail.com**
 
