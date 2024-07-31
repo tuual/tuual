@@ -1,4 +1,3 @@
-<h3 align="center">A Software developer </h3>
 
 - 📫 Contact Me **tual.gokmen41@gmail.com**
 
